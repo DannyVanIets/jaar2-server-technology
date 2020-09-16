@@ -1,0 +1,65 @@
+﻿@model TakenlijstManager.Models.Status
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Status</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="StatusId" />
+            <div class="form-group">
+                <label asp-for="Naam" class="control-label"></label>
+                <input asp-for="Naam" class="form-control" />
+                <span asp-validation-for="Naam" class="text-danger"></span>
+            </div>
+            <label asp-for="VolgendeStatus" class="control-label"></label>
+            <select class="form-control" id="VolgendeStatus" name="VolgendeStatus">
+                @if (Model.VolgendeStatus == 0)
+                {
+                    <option value="0" selected>Geen</option>
+                    <option value="1">Todo</option>
+                    <option value="2">In progress</option>
+                    <option value="3">Done</option>
+                }
+                else if (Model.VolgendeStatus == 1)
+                {
+                    <option value="0">Geen</option>
+                    <option value="1" selected>Todo</option>
+                    <option value="2">In progress</option>
+                    <option value="3">Done</option>
+                }
+                else if (Model.VolgendeStatus == 2)
+                {
+                    <option value="0">Geen</option>
+                    <option value="1">Todo</option>
+                    <option value="2" selected>In progress</option>
+                    <option value="3">Done</option>
+                }
+                else if (Model.VolgendeStatus == 3)
+                {
+                    <option value="0">Geen</option>
+                    <option value="1">Todo</option>
+                    <option value="2">In progress</option>
+                    <option value="3" selected>Done</option>
+                }
+            </select>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

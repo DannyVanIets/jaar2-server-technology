@@ -1,0 +1,16 @@
+﻿@page
+@model Statemanagement.ShowQueryStringModel
+@{
+    ViewData["Title"] = "ShowQueryString";
+}
+
+<h1>ShowQueryString</h1>
+
+<form method="get">
+    Naam: <input type="text" name="naam">
+    Leeftijd: <input type="text" name="leeftijd">
+    <input type="submit" name="submit" value="submit" class="btn btn-primary">
+</form>
+
+<h4>Waarde voor de naam is: @ViewData["Naam"]</h4>
+<h4>Waarde voor de leeftijd is: @ViewData["Leeftijd"]</h4>

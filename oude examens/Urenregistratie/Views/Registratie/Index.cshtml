@@ -1,0 +1,89 @@
+﻿@model IEnumerable<Urenregistratie.Models.RegistratieModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Jaar)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Week)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Maandag)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Dinsdag)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Woensdag)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Donderdag)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Vrijdag)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Zaterdag)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Zondag)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Medewerker)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Jaar)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Week)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Maandag)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Dinsdag)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Woensdag)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Donderdag)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Vrijdag)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Zaterdag)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Zondag)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Medewerker.Achternaam)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.RegistratieId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.RegistratieId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.RegistratieId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

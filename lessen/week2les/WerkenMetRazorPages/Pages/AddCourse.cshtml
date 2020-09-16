@@ -1,0 +1,29 @@
+﻿@page
+@model WerkenMetRazorPages.AddCourseModel
+@{
+    ViewData["Title"] = "AddCourse";
+}
+
+<h1>AddCourse</h1>
+
+<form method="post">
+    <div class="form-group">
+        <label asp-for="Course.Id" class="control-label">ID</label>
+        <input asp-for="Course.Id" class="form-control"/>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Course.Code" class="control-label">Code</label>
+        <input asp-for="Course.Code" class="form-control"/>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Course.Name" class="control-label">Name</label>
+        <input asp-for="Course.Name" class="form-control"/>
+    </div>
+
+    <div class="form-group">
+        <button type="submit" class="btn btn-primary">Save</button>
+    </div>
+    <a asp-page="./Index">Back to List</a>
+</form>

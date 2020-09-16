@@ -1,0 +1,55 @@
+﻿@model IEnumerable<TheaterReservering.Models.ReserveringModel>
+
+@{
+    ViewData["Title"] = "EditWithKlantId";
+    int breedte = 6;
+    int counter = 0;
+}
+
+<h1>Reserveren voor: @ViewData["Klant"]</h1>
+
+<form asp-action="EditWithKlantId">
+    <input type="hidden" name="KlantId" value="@ViewData["KlantId"]" />
+    <table class="table">
+        <thead>
+            <tr>
+                @for (int i = 1; i <= breedte; i++)
+                {
+                    <td>@i</td>
+                }
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                @foreach (var item in Model)
+                {
+                    // Kijken of counter gedeeld door 6 kan, zo ja dan moet er een nieuwe regel komen.
+                    if (counter++ % breedte == 0)
+                    {
+                    @:</tr><tr>
+                    }
+                    <td>
+                        @if (item.KlantId == (int)ViewData["KlantId"])
+                        {
+                            <input type="checkbox" name="reserveringsIds" value="@item.ReserveringId" @Html.Raw(item.bezet ? "checked=\"checked\"" : "") />
+                            <p class="bg-primary text-white">@item.Naam</p>
+                        }
+                        else if (item.bezet)
+                        {
+                            <input type="checkbox" name="reserveringsIds" value="@item.ReserveringId" @Html.Raw(item.bezet ? "checked=\"checked\"" : "") disabled />
+                            <p class="bg-danger text-white">@item.Naam</p>
+                        }
+                        else
+                        {
+                            <input type="checkbox" name="reserveringsIds" value="@item.ReserveringId" @Html.Raw(item.bezet ? "checked=\"checked\"" : "") />
+                            <p class="bg-success text-white">@item.Naam</p>
+                        }
+                    </td>
+                }
+            </tr>
+        </tbody>
+    </table>
+    <div class="form-group">
+        <input type="submit" value="Reserveringen vastleggen" class="btn btn-primary" />
+    </div>
+</form>

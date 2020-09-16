@@ -1,0 +1,34 @@
+﻿@page
+@model quotesCRUD.EditQuoteModel
+@{
+    ViewData["Title"] = "EditQuote";
+}
+
+<h1>EditQuote</h1>
+
+<form method="post">
+    <div class="form-group">
+        <label asp-for="Quote.Id" class="control-label">ID</label>
+        <input asp-for="Quote.Id" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Quote.Tekst" class="control-label">Tekst</label>
+        <input asp-for="Quote.Tekst" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Quote.Rating" class="control-label">Rating</label>
+        <input asp-for="Quote.Rating" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Quote.Bedenker" class="control-label">Bedenker</label>
+        <input asp-for="Quote.Bedenker" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <button type="submit" class="btn btn-primary">Save</button>
+    </div>
+    <a asp-page="./Index">Back to List</a>
+</form>

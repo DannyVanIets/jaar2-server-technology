@@ -1,0 +1,22 @@
+﻿@page
+@model WerkenMetRazorPages.WorkWithHandlerModel
+@{
+    ViewData["Title"] = "WorkWithHandler";
+    var kjelt = (Persoon)ViewData["Schaatsen"];
+    string schaatser = "";
+    if(kjelt != null)
+    {
+        schaatser = $"{kjelt.Naam} is {kjelt.Leeftijd} jaar oud.";
+    }
+}
+
+<p>@ViewData["Groet"]</p>
+<h1>WorkWithHandler</h1>
+<form method="post">
+    <button class="btn btn-primary" asp-page-handler="edit">Edit</button>
+    <button class="btn btn-primary" asp-page-handler="delete">Delete</button>
+    <button class="btn btn-primary" asp-page-handler="view">View</button>
+</form>
+
+<h4>@Model.Message</h4>
+<h4>@schaatser</h4>

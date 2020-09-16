@@ -1,0 +1,14 @@
+﻿@page
+@model Statemanagement.ShowHiddenFieldModel
+@{
+    ViewData["Title"] = "ShowHiddenField";
+}
+
+<h1>ShowHiddenField</h1>
+
+<form method="post">
+    <input type="hidden" name="clicks" value="@ViewData["Clicker"]">
+    <button class="btn btn-primary">Clicker</button>
+    <button class="btn btn-primary" asp-page-handler="show">ShowResult</button>
+</form>
+<h4>Er is @ViewData["Clicker"] keer geklikt</h4>

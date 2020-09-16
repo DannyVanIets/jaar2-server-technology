@@ -1,0 +1,19 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+    <div class="text-center">
+        <form asp-controller="Home" asp-action="OnGet" method="get">
+            <button type="submit">Submit sync</button>
+        </form>
+
+        <form asp-controller="Home" asp-action="OnGetTest" method="get">
+            <button type="submit">Submit sync</button>
+        </form>
+
+        <p>Value1: @ViewBag.Messasge1</p>
+        <p>Value2: @ViewBag.Messasge2</p>
+        <p>Value3: @ViewBag.Messasge3</p>
+
+        <p>Elapsed time: @ViewBag.ElapsedTime ms</p>
+    </div>

@@ -1,0 +1,15 @@
+D:\code\visual studio\asp.net\securitytechnology\ChuckNorrisAPICaller\bin\Debug\netcoreapp3.1\ChuckNorrisAPICaller.exe
+D:\code\visual studio\asp.net\securitytechnology\ChuckNorrisAPICaller\obj\Debug\netcoreapp3.1\ChuckNorrisAPICaller.AssemblyInfoInputs.cache
+D:\code\visual studio\asp.net\securitytechnology\ChuckNorrisAPICaller\obj\Debug\netcoreapp3.1\ChuckNorrisAPICaller.AssemblyInfo.cs
+D:\code\visual studio\asp.net\securitytechnology\ChuckNorrisAPICaller\bin\Debug\netcoreapp3.1\ChuckNorrisAPICaller.deps.json
+D:\code\visual studio\asp.net\securitytechnology\ChuckNorrisAPICaller\bin\Debug\netcoreapp3.1\ChuckNorrisAPICaller.runtimeconfig.json
+D:\code\visual studio\asp.net\securitytechnology\ChuckNorrisAPICaller\bin\Debug\netcoreapp3.1\ChuckNorrisAPICaller.runtimeconfig.dev.json
+D:\code\visual studio\asp.net\securitytechnology\ChuckNorrisAPICaller\bin\Debug\netcoreapp3.1\ChuckNorrisAPICaller.dll
+D:\code\visual studio\asp.net\securitytechnology\ChuckNorrisAPICaller\bin\Debug\netcoreapp3.1\ChuckNorrisAPICaller.pdb
+D:\code\visual studio\asp.net\securitytechnology\ChuckNorrisAPICaller\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\code\visual studio\asp.net\securitytechnology\ChuckNorrisAPICaller\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\code\visual studio\asp.net\securitytechnology\ChuckNorrisAPICaller\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\code\visual studio\asp.net\securitytechnology\ChuckNorrisAPICaller\obj\Debug\netcoreapp3.1\ChuckNorrisAPICaller.csproj.CopyComplete
+D:\code\visual studio\asp.net\securitytechnology\ChuckNorrisAPICaller\obj\Debug\netcoreapp3.1\ChuckNorrisAPICaller.dll
+D:\code\visual studio\asp.net\securitytechnology\ChuckNorrisAPICaller\obj\Debug\netcoreapp3.1\ChuckNorrisAPICaller.pdb
+D:\code\visual studio\asp.net\securitytechnology\ChuckNorrisAPICaller\obj\Debug\netcoreapp3.1\ChuckNorrisAPICaller.csprojAssemblyReference.cache

@@ -1,0 +1,19 @@
+﻿@page
+@model SessionSample.Pages.GuessModel
+@{
+   ViewData["Title"] = "Guess";
+}
+
+<h2>Guess</h2>
+
+<form method="post">
+    <p>(@Model.SessionInfo_GameState.Target)   (alleen voor testdoeleinden getoond)</p>
+    <p>@Model.SessionInfo_GameState.StateText</p>
+    <p>
+        Poging @Model.SessionInfo_GameState.Steps: <input type="text" name="attempt" />
+    </p>
+
+    <div class="form-group">
+        <input type="submit" value="Verzenden" class="btn btn-primary" />
+    </div>
+</form>

@@ -1,0 +1,14 @@
+﻿@page
+@model GameHogerLager.GuessModel
+@{
+    ViewData["Title"] = "Guess";
+}
+
+<h1>Guess</h1>
+
+<form method="post">
+    <p>(@Model.SessionInfo_GameState.Target) (alleen voor testdoeleinden getoond)</p>
+    <p>@Model.SessionInfo_GameState.StateText</p>
+    Poging @Model.SessionInfo_GameState.Steps: <input type="number" name="guess" />
+    <input type="submit" name="send" value="Verzenen" />
+</form>

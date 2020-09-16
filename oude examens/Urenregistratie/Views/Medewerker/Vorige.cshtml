@@ -1,0 +1,105 @@
+﻿@model IEnumerable<Urenregistratie.Models.MedewerkerModel>
+
+@{
+    ViewData["Title"] = "Index";
+    ViewBag.totaalaantalUren = 0;
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Voornaam)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Achternaam)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Telefoonnummer)
+            </th>
+            <th>
+                Totaal
+            </th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Voornaam)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Achternaam)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Telefoonnummer)
+                </td>
+                <td>
+                    @{
+                        int? aantalUren = 0;
+                        foreach (var registratie in item.Registraties)
+                        {
+                            if (registratie.Week == ViewBag.week)
+                            {
+                                if (registratie.Maandag != null)
+                                {
+                                    aantalUren += registratie.Maandag;
+                                }
+                                if (registratie.Dinsdag != null)
+                                {
+                                    aantalUren += registratie.Dinsdag;
+                                }
+                                if (registratie.Woensdag != null)
+                                {
+                                    aantalUren += registratie.Woensdag;
+                                }
+                                if (registratie.Donderdag != null)
+                                {
+                                    aantalUren += registratie.Donderdag;
+                                }
+                                if (registratie.Vrijdag != null)
+                                {
+                                    aantalUren += registratie.Vrijdag;
+                                }
+                                if (registratie.Zaterdag != null)
+                                {
+                                    aantalUren += registratie.Zaterdag;
+                                }
+                                if (registratie.Zondag != null)
+                                {
+                                    aantalUren += registratie.Zondag;
+                                }
+                            }
+                        }
+                        <p>@aantalUren</p>
+                        ViewBag.totaalaantalUren += aantalUren;
+                    }
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.MedewerkerId">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.MedewerkerId">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.MedewerkerId">Delete</a>
+                </td>
+                <td>
+                    <a asp-controller="Registratie" asp-action="RegistreerUrenMedewerker" asp-route-id="@item.MedewerkerId">Registreer uren</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<p>Totaal aantal uren: @ViewBag.totaalaantalUren</p>
+
+<p>Jaar @DateTime.Now.Year - Week @ViewBag.week</p>
+
+<a asp-action="Vorige" asp-route-id="@ViewBag.week">Vorige</a> |
+<a asp-action="Volgende" asp-route-id="@ViewBag.week">Volgende</a>
+
+<p>Taalinstelling van uw browser: @ViewBag.language</p>

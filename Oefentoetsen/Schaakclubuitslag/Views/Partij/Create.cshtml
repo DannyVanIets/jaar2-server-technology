@@ -1,0 +1,43 @@
+﻿@model Schaakclubuitslag.Models.PartijModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>PartijModel</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="PartijId" value=0 />
+            <div class="form-group">
+                <label asp-for="Dag" class="control-label"></label>
+                <select asp-for="Dag" asp-items="new SelectList(Enum.GetValues(typeof(Dagen)))" class="form-control"></select>
+                <span asp-validation-for="Dag" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Uitslag" class="control-label"></label>
+                <select asp-for="Uitslag" asp-items="Html.GetEnumSelectList<Schaakclubuitslag.Models.PartijModel.Uitslagen>()" class="form-control"></select>
+                <span asp-validation-for="Uitslag" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SCUSpelerId" class="control-label"></label>
+                <select asp-for="SCUSpelerId" class="form-control" asp-items="ViewBag.SCUSpelerId"></select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

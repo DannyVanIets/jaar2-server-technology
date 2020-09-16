@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Server_wk4_les8_1_veel.Models.Course">
+    <Position X="2" Y="0.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>EAACAAAAAAAAAAAAAAAgAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Course.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Tests" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Server_wk4_les8_1_veel.Models.Test">
+    <Position X="6.25" Y="0.75" Width="2.25" />
+    <AssociationLine Name="Course" Type="Server_wk4_les8_1_veel.Models.Course">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.506" Y="0.064" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAGAAAAAAAAAAAAAIAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Test.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Course" />
+    </ShowAsAssociation>
+  </Class>
+  <Interface Name="System.Collections.Generic.ICollection&lt;T&gt;" Collapsed="true">
+    <Position X="2.75" Y="3" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

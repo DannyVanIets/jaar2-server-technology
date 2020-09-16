@@ -1,0 +1,285 @@
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample\bin\Debug\netcoreapp2.1\SessionSample.deps.json
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample\bin\Debug\netcoreapp2.1\SessionSample.runtimeconfig.json
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample\bin\Debug\netcoreapp2.1\SessionSample.runtimeconfig.dev.json
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample\bin\Debug\netcoreapp2.1\SessionSample.dll
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample\bin\Debug\netcoreapp2.1\SessionSample.pdb
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample\bin\Debug\netcoreapp2.1\SessionSample.Views.dll
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample\bin\Debug\netcoreapp2.1\SessionSample.Views.pdb
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample\obj\Debug\netcoreapp2.1\SessionSample.csprojAssemblyReference.cache
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample\obj\Debug\netcoreapp2.1\SessionSample.csproj.CoreCompileInputs.cache
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample\obj\Debug\netcoreapp2.1\SessionSample.RazorAssemblyInfo.cache
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample\obj\Debug\netcoreapp2.1\SessionSample.RazorAssemblyInfo.cs
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample\obj\Debug\netcoreapp2.1\SessionSample.AssemblyInfoInputs.cache
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample\obj\Debug\netcoreapp2.1\SessionSample.AssemblyInfo.cs
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample\obj\Debug\netcoreapp2.1\SessionSample.TagHelpers.input.cache
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample\obj\Debug\netcoreapp2.1\SessionSample.TagHelpers.output.cache
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample\obj\Debug\netcoreapp2.1\SessionSample.RazorCoreGenerate.cache
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample\obj\Debug\netcoreapp2.1\SessionSample.RazorTargetAssemblyInfo.cache
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample\obj\Debug\netcoreapp2.1\SessionSample.RazorTargetAssemblyInfo.cs
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample\obj\Debug\netcoreapp2.1\SessionSample.Views.pdb
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample\obj\Debug\netcoreapp2.1\SessionSample.dll
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample\obj\Debug\netcoreapp2.1\SessionSample.pdb
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample\obj\Debug\netcoreapp2.1\SessionSample.csproj.CopyComplete
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample-fdj-gamestate\bin\Debug\netcoreapp2.1\SessionSample.deps.json
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample-fdj-gamestate\bin\Debug\netcoreapp2.1\SessionSample.runtimeconfig.json
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample-fdj-gamestate\bin\Debug\netcoreapp2.1\SessionSample.runtimeconfig.dev.json
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample-fdj-gamestate\bin\Debug\netcoreapp2.1\SessionSample.dll
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample-fdj-gamestate\bin\Debug\netcoreapp2.1\SessionSample.pdb
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample-fdj-gamestate\bin\Debug\netcoreapp2.1\SessionSample.Views.dll
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample-fdj-gamestate\bin\Debug\netcoreapp2.1\SessionSample.Views.pdb
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample-fdj-gamestate\obj\Debug\netcoreapp2.1\SessionSample.csprojAssemblyReference.cache
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample-fdj-gamestate\obj\Debug\netcoreapp2.1\SessionSample.csproj.CoreCompileInputs.cache
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample-fdj-gamestate\obj\Debug\netcoreapp2.1\SessionSample.RazorAssemblyInfo.cache
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample-fdj-gamestate\obj\Debug\netcoreapp2.1\SessionSample.RazorAssemblyInfo.cs
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample-fdj-gamestate\obj\Debug\netcoreapp2.1\SessionSample.AssemblyInfoInputs.cache
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample-fdj-gamestate\obj\Debug\netcoreapp2.1\SessionSample.AssemblyInfo.cs
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample-fdj-gamestate\obj\Debug\netcoreapp2.1\SessionSample.TagHelpers.input.cache
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample-fdj-gamestate\obj\Debug\netcoreapp2.1\SessionSample.TagHelpers.output.cache
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample-fdj-gamestate\obj\Debug\netcoreapp2.1\SessionSample.RazorCoreGenerate.cache
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample-fdj-gamestate\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample-fdj-gamestate\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample-fdj-gamestate\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample-fdj-gamestate\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample-fdj-gamestate\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample-fdj-gamestate\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample-fdj-gamestate\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample-fdj-gamestate\obj\Debug\netcoreapp2.1\SessionSample.RazorTargetAssemblyInfo.cache
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample-fdj-gamestate\obj\Debug\netcoreapp2.1\SessionSample.RazorTargetAssemblyInfo.cs
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample-fdj-gamestate\obj\Debug\netcoreapp2.1\SessionSample.Views.pdb
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample-fdj-gamestate\obj\Debug\netcoreapp2.1\SessionSample.dll
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample-fdj-gamestate\obj\Debug\netcoreapp2.1\SessionSample.pdb
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample-fdj-gamestate\obj\Debug\netcoreapp2.1\SessionSample.csproj.CopyComplete
+C:\D\VS\SERVER\int-scs\Docs-master\aspnetcore\fundamentals\app-state\samples\2.x\SessionSample-fdj-gamestate\obj\Debug\netcoreapp2.1\Razor\Pages\Guess.g.cshtml.cs
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate\bin\Debug\netcoreapp2.1\SessionSample.deps.json
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate\bin\Debug\netcoreapp2.1\SessionSample.runtimeconfig.json
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate\bin\Debug\netcoreapp2.1\SessionSample.runtimeconfig.dev.json
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate\bin\Debug\netcoreapp2.1\SessionSample.dll
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate\bin\Debug\netcoreapp2.1\SessionSample.pdb
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate\bin\Debug\netcoreapp2.1\SessionSample.Views.dll
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate\bin\Debug\netcoreapp2.1\SessionSample.Views.pdb
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate\obj\Debug\netcoreapp2.1\SessionSample.csprojAssemblyReference.cache
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate\obj\Debug\netcoreapp2.1\SessionSample.csproj.CoreCompileInputs.cache
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate\obj\Debug\netcoreapp2.1\SessionSample.RazorAssemblyInfo.cache
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate\obj\Debug\netcoreapp2.1\SessionSample.RazorAssemblyInfo.cs
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate\obj\Debug\netcoreapp2.1\SessionSample.AssemblyInfoInputs.cache
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate\obj\Debug\netcoreapp2.1\SessionSample.AssemblyInfo.cs
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate\obj\Debug\netcoreapp2.1\SessionSample.TagHelpers.input.cache
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate\obj\Debug\netcoreapp2.1\SessionSample.TagHelpers.output.cache
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate\obj\Debug\netcoreapp2.1\SessionSample.RazorCoreGenerate.cache
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate\obj\Debug\netcoreapp2.1\Razor\Pages\Guess.g.cshtml.cs
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate\obj\Debug\netcoreapp2.1\SessionSample.RazorTargetAssemblyInfo.cache
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate\obj\Debug\netcoreapp2.1\SessionSample.RazorTargetAssemblyInfo.cs
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate\obj\Debug\netcoreapp2.1\SessionSample.Views.pdb
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate\obj\Debug\netcoreapp2.1\SessionSample.dll
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate\obj\Debug\netcoreapp2.1\SessionSample.pdb
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate\obj\Debug\netcoreapp2.1\SessionSample.csproj.CopyComplete
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate\obj\Debug\netcoreapp2.1\Razor\Pages\Success.g.cshtml.cs
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy\bin\Debug\netcoreapp2.1\SessionSample.deps.json
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy\bin\Debug\netcoreapp2.1\SessionSample.runtimeconfig.json
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy\bin\Debug\netcoreapp2.1\SessionSample.runtimeconfig.dev.json
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy\bin\Debug\netcoreapp2.1\SessionSample.dll
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy\bin\Debug\netcoreapp2.1\SessionSample.pdb
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy\bin\Debug\netcoreapp2.1\SessionSample.Views.dll
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy\bin\Debug\netcoreapp2.1\SessionSample.Views.pdb
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy\obj\Debug\netcoreapp2.1\SessionSample.csprojAssemblyReference.cache
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy\obj\Debug\netcoreapp2.1\SessionSample.csproj.CoreCompileInputs.cache
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy\obj\Debug\netcoreapp2.1\SessionSample.RazorAssemblyInfo.cache
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy\obj\Debug\netcoreapp2.1\SessionSample.RazorAssemblyInfo.cs
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy\obj\Debug\netcoreapp2.1\SessionSample.AssemblyInfoInputs.cache
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy\obj\Debug\netcoreapp2.1\SessionSample.AssemblyInfo.cs
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy\obj\Debug\netcoreapp2.1\SessionSample.TagHelpers.input.cache
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy\obj\Debug\netcoreapp2.1\SessionSample.TagHelpers.output.cache
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy\obj\Debug\netcoreapp2.1\SessionSample.RazorCoreGenerate.cache
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy\obj\Debug\netcoreapp2.1\Razor\Pages\Guess.g.cshtml.cs
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy\obj\Debug\netcoreapp2.1\Razor\Pages\Success.g.cshtml.cs
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy\obj\Debug\netcoreapp2.1\SessionSample.RazorTargetAssemblyInfo.cache
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy\obj\Debug\netcoreapp2.1\SessionSample.RazorTargetAssemblyInfo.cs
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy\obj\Debug\netcoreapp2.1\SessionSample.Views.pdb
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy\obj\Debug\netcoreapp2.1\SessionSample.dll
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy\obj\Debug\netcoreapp2.1\SessionSample.pdb
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy\obj\Debug\netcoreapp2.1\SessionSample.csproj.CopyComplete
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy - Copy\obj\Debug\netcoreapp2.1\SessionSample.csprojAssemblyReference.cache
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy - Copy\obj\Debug\netcoreapp2.1\SessionSample.csproj.CoreCompileInputs.cache
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy - Copy\obj\Debug\netcoreapp2.1\SessionSample.RazorAssemblyInfo.cache
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy - Copy\obj\Debug\netcoreapp2.1\SessionSample.RazorAssemblyInfo.cs
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy - Copy\obj\Debug\netcoreapp2.1\SessionSample.AssemblyInfoInputs.cache
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy - Copy\obj\Debug\netcoreapp2.1\SessionSample.AssemblyInfo.cs
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy - Copy\obj\Debug\netcoreapp2.1\SessionSample.dll
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy - Copy\obj\Debug\netcoreapp2.1\SessionSample.pdb
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy - Copy\bin\Debug\netcoreapp2.1\SessionSample.deps.json
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy - Copy\bin\Debug\netcoreapp2.1\SessionSample.runtimeconfig.json
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy - Copy\bin\Debug\netcoreapp2.1\SessionSample.runtimeconfig.dev.json
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy - Copy\bin\Debug\netcoreapp2.1\SessionSample.dll
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy - Copy\bin\Debug\netcoreapp2.1\SessionSample.pdb
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy - Copy\bin\Debug\netcoreapp2.1\SessionSample.Views.dll
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy - Copy\bin\Debug\netcoreapp2.1\SessionSample.Views.pdb
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy - Copy\obj\Debug\netcoreapp2.1\SessionSample.TagHelpers.input.cache
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy - Copy\obj\Debug\netcoreapp2.1\SessionSample.TagHelpers.output.cache
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy - Copy\obj\Debug\netcoreapp2.1\SessionSample.RazorCoreGenerate.cache
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy - Copy\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy - Copy\obj\Debug\netcoreapp2.1\Razor\Pages\Guess.g.cshtml.cs
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy - Copy\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy - Copy\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy - Copy\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy - Copy\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy - Copy\obj\Debug\netcoreapp2.1\Razor\Pages\Success.g.cshtml.cs
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy - Copy\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy - Copy\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy - Copy\obj\Debug\netcoreapp2.1\SessionSample.RazorTargetAssemblyInfo.cache
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy - Copy\obj\Debug\netcoreapp2.1\SessionSample.RazorTargetAssemblyInfo.cs
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy - Copy\obj\Debug\netcoreapp2.1\SessionSample.Views.pdb
+C:\D\VS\SERVER\2018\SessionSample-fdj-gamestate - Copy - Copy\obj\Debug\netcoreapp2.1\SessionSample.csproj.CopyComplete
+C:\D\VS\SERVER\2018\GameHogerLagerObvSessionSample\bin\Debug\netcoreapp2.1\SessionSample.deps.json
+C:\D\VS\SERVER\2018\GameHogerLagerObvSessionSample\bin\Debug\netcoreapp2.1\SessionSample.runtimeconfig.json
+C:\D\VS\SERVER\2018\GameHogerLagerObvSessionSample\bin\Debug\netcoreapp2.1\SessionSample.runtimeconfig.dev.json
+C:\D\VS\SERVER\2018\GameHogerLagerObvSessionSample\bin\Debug\netcoreapp2.1\SessionSample.dll
+C:\D\VS\SERVER\2018\GameHogerLagerObvSessionSample\bin\Debug\netcoreapp2.1\SessionSample.pdb
+C:\D\VS\SERVER\2018\GameHogerLagerObvSessionSample\bin\Debug\netcoreapp2.1\SessionSample.Views.dll
+C:\D\VS\SERVER\2018\GameHogerLagerObvSessionSample\bin\Debug\netcoreapp2.1\SessionSample.Views.pdb
+C:\D\VS\SERVER\2018\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\SessionSample.csprojAssemblyReference.cache
+C:\D\VS\SERVER\2018\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\SessionSample.csproj.CoreCompileInputs.cache
+C:\D\VS\SERVER\2018\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\SessionSample.RazorAssemblyInfo.cache
+C:\D\VS\SERVER\2018\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\SessionSample.RazorAssemblyInfo.cs
+C:\D\VS\SERVER\2018\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\SessionSample.AssemblyInfoInputs.cache
+C:\D\VS\SERVER\2018\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\SessionSample.AssemblyInfo.cs
+C:\D\VS\SERVER\2018\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\SessionSample.TagHelpers.input.cache
+C:\D\VS\SERVER\2018\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\SessionSample.TagHelpers.output.cache
+C:\D\VS\SERVER\2018\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\SessionSample.RazorCoreGenerate.cache
+C:\D\VS\SERVER\2018\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\D\VS\SERVER\2018\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\Razor\Pages\Guess.g.cshtml.cs
+C:\D\VS\SERVER\2018\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\D\VS\SERVER\2018\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\D\VS\SERVER\2018\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\D\VS\SERVER\2018\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\D\VS\SERVER\2018\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\Razor\Pages\Success.g.cshtml.cs
+C:\D\VS\SERVER\2018\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\D\VS\SERVER\2018\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\D\VS\SERVER\2018\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\SessionSample.RazorTargetAssemblyInfo.cache
+C:\D\VS\SERVER\2018\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\SessionSample.RazorTargetAssemblyInfo.cs
+C:\D\VS\SERVER\2018\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\SessionSample.Views.pdb
+C:\D\VS\SERVER\2018\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\SessionSample.dll
+C:\D\VS\SERVER\2018\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\SessionSample.pdb
+C:\D\VS\SERVER\2018\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\SessionSample.csproj.CopyComplete
+C:\D\VS\test_magweg\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\D\VS\test_magweg\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\bin\Debug\netcoreapp2.1\appsettings.json
+C:\D\VS\test_magweg\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\bin\Debug\netcoreapp2.1\appsettings.Production.json
+C:\D\VS\test_magweg\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\D\VS\test_magweg\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\bin\Debug\netcoreapp2.1\SessionSample.deps.json
+C:\D\VS\test_magweg\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\bin\Debug\netcoreapp2.1\SessionSample.runtimeconfig.json
+C:\D\VS\test_magweg\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\bin\Debug\netcoreapp2.1\SessionSample.runtimeconfig.dev.json
+C:\D\VS\test_magweg\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\bin\Debug\netcoreapp2.1\SessionSample.dll
+C:\D\VS\test_magweg\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\bin\Debug\netcoreapp2.1\SessionSample.pdb
+C:\D\VS\test_magweg\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\bin\Debug\netcoreapp2.1\SessionSample.Views.dll
+C:\D\VS\test_magweg\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\bin\Debug\netcoreapp2.1\SessionSample.Views.pdb
+C:\D\VS\test_magweg\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\SessionSample.csprojAssemblyReference.cache
+C:\D\VS\test_magweg\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\SessionSample.RazorAssemblyInfo.cache
+C:\D\VS\test_magweg\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\SessionSample.RazorAssemblyInfo.cs
+C:\D\VS\test_magweg\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\SessionSample.AssemblyInfoInputs.cache
+C:\D\VS\test_magweg\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\SessionSample.AssemblyInfo.cs
+C:\D\VS\test_magweg\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\SessionSample.TagHelpers.input.cache
+C:\D\VS\test_magweg\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\SessionSample.TagHelpers.output.cache
+C:\D\VS\test_magweg\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\SessionSample.RazorCoreGenerate.cache
+C:\D\VS\test_magweg\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\Razor\Pages\Error.cshtml.g.cs
+C:\D\VS\test_magweg\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\Razor\Pages\Guess.cshtml.g.cs
+C:\D\VS\test_magweg\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\Razor\Pages\Index.cshtml.g.cs
+C:\D\VS\test_magweg\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\D\VS\test_magweg\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\D\VS\test_magweg\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\D\VS\test_magweg\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\Razor\Pages\Success.cshtml.g.cs
+C:\D\VS\test_magweg\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\D\VS\test_magweg\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\D\VS\test_magweg\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\SessionSample.RazorTargetAssemblyInfo.cache
+C:\D\VS\test_magweg\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\SessionSample.RazorTargetAssemblyInfo.cs
+C:\D\VS\test_magweg\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\SessionSample.Views.pdb
+C:\D\VS\test_magweg\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\SessionSample.dll
+C:\D\VS\test_magweg\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\SessionSample.pdb
+C:\D\VS\test_magweg\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\SessionSample.csproj.CopyComplete
+C:\D\Win\HBO_ict_SE2\ICT.SE.SRVR.V19 (eigen materiaal fdj)\wk2 Statemanagement\v18 core2.1\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\D\Win\HBO_ict_SE2\ICT.SE.SRVR.V19 (eigen materiaal fdj)\wk2 Statemanagement\v18 core2.1\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\bin\Debug\netcoreapp2.1\appsettings.json
+C:\D\Win\HBO_ict_SE2\ICT.SE.SRVR.V19 (eigen materiaal fdj)\wk2 Statemanagement\v18 core2.1\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\bin\Debug\netcoreapp2.1\appsettings.Production.json
+C:\D\Win\HBO_ict_SE2\ICT.SE.SRVR.V19 (eigen materiaal fdj)\wk2 Statemanagement\v18 core2.1\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\D\Win\HBO_ict_SE2\ICT.SE.SRVR.V19 (eigen materiaal fdj)\wk2 Statemanagement\v18 core2.1\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\bin\Debug\netcoreapp2.1\SessionSample.deps.json
+C:\D\Win\HBO_ict_SE2\ICT.SE.SRVR.V19 (eigen materiaal fdj)\wk2 Statemanagement\v18 core2.1\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\bin\Debug\netcoreapp2.1\SessionSample.runtimeconfig.json
+C:\D\Win\HBO_ict_SE2\ICT.SE.SRVR.V19 (eigen materiaal fdj)\wk2 Statemanagement\v18 core2.1\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\bin\Debug\netcoreapp2.1\SessionSample.runtimeconfig.dev.json
+C:\D\Win\HBO_ict_SE2\ICT.SE.SRVR.V19 (eigen materiaal fdj)\wk2 Statemanagement\v18 core2.1\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\bin\Debug\netcoreapp2.1\SessionSample.dll
+C:\D\Win\HBO_ict_SE2\ICT.SE.SRVR.V19 (eigen materiaal fdj)\wk2 Statemanagement\v18 core2.1\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\bin\Debug\netcoreapp2.1\SessionSample.pdb
+C:\D\Win\HBO_ict_SE2\ICT.SE.SRVR.V19 (eigen materiaal fdj)\wk2 Statemanagement\v18 core2.1\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\bin\Debug\netcoreapp2.1\SessionSample.Views.dll
+C:\D\Win\HBO_ict_SE2\ICT.SE.SRVR.V19 (eigen materiaal fdj)\wk2 Statemanagement\v18 core2.1\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\bin\Debug\netcoreapp2.1\SessionSample.Views.pdb
+C:\D\Win\HBO_ict_SE2\ICT.SE.SRVR.V19 (eigen materiaal fdj)\wk2 Statemanagement\v18 core2.1\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\SessionSample.csprojAssemblyReference.cache
+C:\D\Win\HBO_ict_SE2\ICT.SE.SRVR.V19 (eigen materiaal fdj)\wk2 Statemanagement\v18 core2.1\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\SessionSample.RazorAssemblyInfo.cache
+C:\D\Win\HBO_ict_SE2\ICT.SE.SRVR.V19 (eigen materiaal fdj)\wk2 Statemanagement\v18 core2.1\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\SessionSample.RazorAssemblyInfo.cs
+C:\D\Win\HBO_ict_SE2\ICT.SE.SRVR.V19 (eigen materiaal fdj)\wk2 Statemanagement\v18 core2.1\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\SessionSample.AssemblyInfoInputs.cache
+C:\D\Win\HBO_ict_SE2\ICT.SE.SRVR.V19 (eigen materiaal fdj)\wk2 Statemanagement\v18 core2.1\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\SessionSample.AssemblyInfo.cs
+C:\D\Win\HBO_ict_SE2\ICT.SE.SRVR.V19 (eigen materiaal fdj)\wk2 Statemanagement\v18 core2.1\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\SessionSample.TagHelpers.input.cache
+C:\D\Win\HBO_ict_SE2\ICT.SE.SRVR.V19 (eigen materiaal fdj)\wk2 Statemanagement\v18 core2.1\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\SessionSample.TagHelpers.output.cache
+C:\D\Win\HBO_ict_SE2\ICT.SE.SRVR.V19 (eigen materiaal fdj)\wk2 Statemanagement\v18 core2.1\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\SessionSample.RazorCoreGenerate.cache
+C:\D\Win\HBO_ict_SE2\ICT.SE.SRVR.V19 (eigen materiaal fdj)\wk2 Statemanagement\v18 core2.1\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\Razor\Pages\Error.cshtml.g.cs
+C:\D\Win\HBO_ict_SE2\ICT.SE.SRVR.V19 (eigen materiaal fdj)\wk2 Statemanagement\v18 core2.1\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\Razor\Pages\Guess.cshtml.g.cs
+C:\D\Win\HBO_ict_SE2\ICT.SE.SRVR.V19 (eigen materiaal fdj)\wk2 Statemanagement\v18 core2.1\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\Razor\Pages\Index.cshtml.g.cs
+C:\D\Win\HBO_ict_SE2\ICT.SE.SRVR.V19 (eigen materiaal fdj)\wk2 Statemanagement\v18 core2.1\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\D\Win\HBO_ict_SE2\ICT.SE.SRVR.V19 (eigen materiaal fdj)\wk2 Statemanagement\v18 core2.1\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\D\Win\HBO_ict_SE2\ICT.SE.SRVR.V19 (eigen materiaal fdj)\wk2 Statemanagement\v18 core2.1\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\D\Win\HBO_ict_SE2\ICT.SE.SRVR.V19 (eigen materiaal fdj)\wk2 Statemanagement\v18 core2.1\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\Razor\Pages\Success.cshtml.g.cs
+C:\D\Win\HBO_ict_SE2\ICT.SE.SRVR.V19 (eigen materiaal fdj)\wk2 Statemanagement\v18 core2.1\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\D\Win\HBO_ict_SE2\ICT.SE.SRVR.V19 (eigen materiaal fdj)\wk2 Statemanagement\v18 core2.1\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\D\Win\HBO_ict_SE2\ICT.SE.SRVR.V19 (eigen materiaal fdj)\wk2 Statemanagement\v18 core2.1\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\SessionSample.RazorTargetAssemblyInfo.cache
+C:\D\Win\HBO_ict_SE2\ICT.SE.SRVR.V19 (eigen materiaal fdj)\wk2 Statemanagement\v18 core2.1\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\SessionSample.RazorTargetAssemblyInfo.cs
+C:\D\Win\HBO_ict_SE2\ICT.SE.SRVR.V19 (eigen materiaal fdj)\wk2 Statemanagement\v18 core2.1\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\SessionSample.Views.pdb
+C:\D\Win\HBO_ict_SE2\ICT.SE.SRVR.V19 (eigen materiaal fdj)\wk2 Statemanagement\v18 core2.1\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\SessionSample.dll
+C:\D\Win\HBO_ict_SE2\ICT.SE.SRVR.V19 (eigen materiaal fdj)\wk2 Statemanagement\v18 core2.1\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\SessionSample.pdb
+C:\D\Win\HBO_ict_SE2\ICT.SE.SRVR.V19 (eigen materiaal fdj)\wk2 Statemanagement\v18 core2.1\GameHogerLagerUitwerking\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\SessionSample.csproj.CopyComplete
+D:\code\HBO\jaar2\servertechnology\week2les\GameHogerLagerObvSessionSample\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\code\HBO\jaar2\servertechnology\week2les\GameHogerLagerObvSessionSample\bin\Debug\netcoreapp2.1\appsettings.json
+D:\code\HBO\jaar2\servertechnology\week2les\GameHogerLagerObvSessionSample\bin\Debug\netcoreapp2.1\appsettings.Production.json
+D:\code\HBO\jaar2\servertechnology\week2les\GameHogerLagerObvSessionSample\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\code\HBO\jaar2\servertechnology\week2les\GameHogerLagerObvSessionSample\bin\Debug\netcoreapp2.1\SessionSample.deps.json
+D:\code\HBO\jaar2\servertechnology\week2les\GameHogerLagerObvSessionSample\bin\Debug\netcoreapp2.1\SessionSample.runtimeconfig.json
+D:\code\HBO\jaar2\servertechnology\week2les\GameHogerLagerObvSessionSample\bin\Debug\netcoreapp2.1\SessionSample.runtimeconfig.dev.json
+D:\code\HBO\jaar2\servertechnology\week2les\GameHogerLagerObvSessionSample\bin\Debug\netcoreapp2.1\SessionSample.dll
+D:\code\HBO\jaar2\servertechnology\week2les\GameHogerLagerObvSessionSample\bin\Debug\netcoreapp2.1\SessionSample.pdb
+D:\code\HBO\jaar2\servertechnology\week2les\GameHogerLagerObvSessionSample\bin\Debug\netcoreapp2.1\SessionSample.Views.dll
+D:\code\HBO\jaar2\servertechnology\week2les\GameHogerLagerObvSessionSample\bin\Debug\netcoreapp2.1\SessionSample.Views.pdb
+D:\code\HBO\jaar2\servertechnology\week2les\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\SessionSample.csprojAssemblyReference.cache
+D:\code\HBO\jaar2\servertechnology\week2les\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\SessionSample.RazorAssemblyInfo.cache
+D:\code\HBO\jaar2\servertechnology\week2les\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\SessionSample.RazorAssemblyInfo.cs
+D:\code\HBO\jaar2\servertechnology\week2les\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\SessionSample.AssemblyInfoInputs.cache
+D:\code\HBO\jaar2\servertechnology\week2les\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\SessionSample.AssemblyInfo.cs
+D:\code\HBO\jaar2\servertechnology\week2les\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\SessionSample.TagHelpers.input.cache
+D:\code\HBO\jaar2\servertechnology\week2les\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\SessionSample.TagHelpers.output.cache
+D:\code\HBO\jaar2\servertechnology\week2les\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\SessionSample.RazorCoreGenerate.cache
+D:\code\HBO\jaar2\servertechnology\week2les\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\Razor\Pages\Error.cshtml.g.cs
+D:\code\HBO\jaar2\servertechnology\week2les\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\Razor\Pages\Guess.cshtml.g.cs
+D:\code\HBO\jaar2\servertechnology\week2les\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\Razor\Pages\Index.cshtml.g.cs
+D:\code\HBO\jaar2\servertechnology\week2les\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\code\HBO\jaar2\servertechnology\week2les\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\code\HBO\jaar2\servertechnology\week2les\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\code\HBO\jaar2\servertechnology\week2les\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\Razor\Pages\Success.cshtml.g.cs
+D:\code\HBO\jaar2\servertechnology\week2les\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\code\HBO\jaar2\servertechnology\week2les\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\code\HBO\jaar2\servertechnology\week2les\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\SessionSample.RazorTargetAssemblyInfo.cache
+D:\code\HBO\jaar2\servertechnology\week2les\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\SessionSample.RazorTargetAssemblyInfo.cs
+D:\code\HBO\jaar2\servertechnology\week2les\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\SessionSample.Views.pdb
+D:\code\HBO\jaar2\servertechnology\week2les\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\SessionSample.dll
+D:\code\HBO\jaar2\servertechnology\week2les\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\SessionSample.pdb
+D:\code\HBO\jaar2\servertechnology\week2les\GameHogerLagerObvSessionSample\obj\Debug\netcoreapp2.1\SessionSample.csproj.CopyComplete

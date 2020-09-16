@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "list";
+}
+
+<!--Viewdata to check which langauge it's being set to and to display the correct information in the right langauge-->
+@if ((string)ViewData["language"] == "nl")
+{
+    <h1>Lijst</h1>
+    <p>Dit is een lijst</p>
+}
+else if ((string)ViewData["language"] == "en")
+{
+    <h1>List</h1>
+    <p>This is a list</p>
+}
+else if ((string)ViewData["language"] == "de")
+{
+    <h1>Liste</h1>
+    <p>Dies ist eine Liste</p>
+}
+
+Hallo!

@@ -1,0 +1,61 @@
+﻿@model IEnumerable<Schaakclubuitslag.Models.SCUSpelerModel>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Naam)
+            </th>
+            @foreach (string itemDag in ViewBag.Dagen)
+            {
+                <th>
+                    @itemDag
+                </th>
+            }
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @{
+                        List<int> spelerIds = (List<int>)ViewBag.SpelersIds;
+                        if ((spelerIds != null) && spelerIds.Contains(item.SCUSpelerId))
+                        {
+                            <div style="color:red;">@Html.DisplayFor(modelItem => item.Naam)</div>
+                        }
+                        else
+                        {
+                            @Html.DisplayFor(modelItem => item.Naam)
+                        }
+                    }
+                </td>
+                @foreach (Dagen dag in Enum.GetValues(typeof(Dagen)))
+                {
+                    var partij = item.Partijen.Where(p => p.Dag == dag).FirstOrDefault();
+                    if (partij != null)
+                    {
+                        <td>
+                            @partij.Uitslag.ToString()
+                        </td>
+                    }
+                    else
+                    {
+                        <td>
+                            <a asp-action="CreatePartij" asp-route-id="@item.SCUSpelerId" asp-route-dag="@dag">?</a>
+                        </td>
+                    }
+                }
+            </tr>
+        }
+    </tbody>
+</table>
+<p>
+    <a asp-action="Create" class="btn btn-primary">Speler toevoegen</a>
+    <a asp-action="Stop" class="btn btn-primary">Sessie beëindigen</a>
+</p>

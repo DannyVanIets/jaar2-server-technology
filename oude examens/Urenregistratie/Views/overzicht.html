@@ -1,0 +1,90 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="/css/site.css" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container">
+                <a class="navbar-brand" href="/">Urenregistratie</a>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            <h1 id="header1">Weekoverzicht</h1>
+
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>
+                            Jaar
+                        </th>
+                        <th>
+                            Week
+                        </th>
+                        <th>
+                            Maandag
+                        </th>
+                        <th>
+                            Dinsdag
+                        </th>
+                        <th>
+                            Woensdag
+                        </th>
+                        <th>
+                            Donderdag
+                        </th>
+                        <th>
+                            Vrijdag
+                        </th>
+                        <th>
+                            Zaterdag
+                        </th>
+                        <th>
+                            Zondag
+                        </th>
+                        <th>
+                            Totaal
+                        </th>
+                    </tr>
+                </thead>
+                <tbody id="tbody">
+                    
+                </tbody>
+            </table>
+            <p>
+                <a href="" onclick="event.preventDefault();history.back()" class="btn btn-primary">Terug</a>
+            </p>
+        </main>
+    </div>
+
+    <script src="/lib/jquery/dist/jquery.min.js"></script>
+    <script src="/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+
+    <script>
+        (function ($) {
+            $.getJSON("/api/mdw/" + window.location.search.split("=")[1], function (data) {
+                $("#header1").text("Weekoverzicht - " + data.voornaam + " " + data.achternaam);
+                
+                var items = [];
+                $.each(data.registraties, function (key, val) {
+                    items.push("<tr>");
+
+                    $.each(val, function (key2, val2) {
+                        items.push("<td>" + (val2 || '') + "</td>");
+                    });
+
+                    items.push("</tr>");
+                });
+
+                $("#tbody").append(items.join(""));
+            });
+        })(jQuery);
+    </script>
+</body>
+</html>

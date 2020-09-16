@@ -1,0 +1,36 @@
+﻿@model Schaakclubuitslag.Models.PartijModel
+
+@{
+    ViewData["Title"] = "CreatePartij";
+}
+
+<h1>Maak een partij aan op @Model.Dag voor @Model.SCUSpeler.Naam</h1>
+
+<h4>PartijModel</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="CreatePartij">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="SCUSpelerId" value=@Model.SCUSpelerId />
+            <input type="hidden" asp-for="Dag" value=@Model.Dag />
+            <input type="hidden" asp-for="PartijId" value=0 />
+            <div class="form-group">
+                <label asp-for="Uitslag" class="control-label"></label>
+                <select asp-for="Uitslag" asp-items="new SelectList(Enum.GetValues(typeof(Schaakclubuitslag.Models.PartijModel.Uitslagen)))" class="form-control"></select>
+                <span asp-validation-for="Uitslag" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

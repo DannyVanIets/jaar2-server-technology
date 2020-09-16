@@ -1,0 +1,28 @@
+﻿@page
+@model WerkenMetRazorPages.ShowCourseServiceModel
+@{
+    ViewData["Title"] = "ShowCourseService";
+}
+
+<h1>ShowCourseService</h1>
+<a asp-page="./AddCourse">Add New Course</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Courses[0].Id)</th>
+            <th>@Html.DisplayNameFor(model => model.Courses[0].Code)</th>
+            <th>@Html.DisplayNameFor(model => model.Courses[0].Name)</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Courses)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelitem => item.Id)</td>
+                <td>@Html.DisplayFor(modelitem => item.Code)</td>
+                <td>@Html.DisplayFor(modelitem => item.Name)</td>
+                <td><a asp-page="./EditCourse" asp-route-id="@item.Id">Edit</a></td>
+            </tr>
+        }
+    </tbody>
+</table>

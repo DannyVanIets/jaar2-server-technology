@@ -1,0 +1,56 @@
+﻿@model IEnumerable<TakenlijstManager.Models.Status>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Naam)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VolgendeStatus)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Naam)
+            </td>
+            <td>
+                @if (item.VolgendeStatus == 0)
+                {
+                    <p> </p>
+                }
+                else if (item.VolgendeStatus == 1)
+                {
+                    <p>To do</p>
+                }
+                else if (item.VolgendeStatus == 2)
+                {
+                    <p>In progress</p>
+                }
+                else if (item.VolgendeStatus == 3)
+                {
+                    <p>Done</p>
+                }
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.StatusId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.StatusId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.StatusId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
